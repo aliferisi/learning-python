@@ -1,6 +1,6 @@
 # learning-python
  A python test code  is creating
-#I mplementation 
+#  Implementation 
 This is built on an android pi running in my bedroom
 # Step Involved
 Learn how to install python modules
